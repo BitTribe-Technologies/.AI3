@@ -50,7 +50,7 @@ thiserror = "1.0"
 chrono = { version = "0.4", features = ["serde"] }
 
 # Networking
-reqwest = { version = "0.11", features = ["json"] }
+reqwest = { version = "0.12", features = ["json"] }
 
 # Math for AI3
 nalgebra = "0.32"
